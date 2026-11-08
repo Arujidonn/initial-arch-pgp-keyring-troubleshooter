@@ -1,1 +1,0 @@
-# initial-arch-pgp-keyring-troubleshooter
